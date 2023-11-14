@@ -334,6 +334,9 @@
         top: 2250px;
         left: -110px;
     }
+    .projetos-cards_text h3{
+        margin: 0;
+    }
     .projetos-cards_text p{
         font-size: 11px;
     }
