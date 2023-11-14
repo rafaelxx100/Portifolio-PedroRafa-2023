@@ -1,5 +1,5 @@
 /*---------------------------media-Queryes----------------*/
-@media screen and (max-width: 1350px) {
+@media screen and (max-width: 1400px) {
     .nav-list{
         gap: 50px;
     }
